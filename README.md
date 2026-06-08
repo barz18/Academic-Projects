@@ -20,7 +20,6 @@ My primary focus in these projects has been on **system-level C++ development**,
 
 ## Contact & Professional Profile
 * **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/bar-zvi-298a21278/)
-* **Resume:** [View / Download PDF](CV.pdf)
-
+* **Resume:** [View / Download PDF](Bar%20Zvi%20resume.pdf)
 ---
 *Note: All projects were implemented using standard C++17, adhering to strict complexity requirements as defined in the course curriculum.*

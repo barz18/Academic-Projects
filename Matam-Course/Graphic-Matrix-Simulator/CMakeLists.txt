@@ -1,14 +1,16 @@
-cmake_minimum_required(VERSION 3.28.3)
-project(wet)
+cmake_minimum_required(VERSION 3.28)
+project(hw_3)
 
 set(CMAKE_CXX_STANDARD 14)
 
 include_directories(.)
 
-add_executable(wet
-        Matrix.cpp
-        Matrix.h
-        tests.cpp
-        Utilities.cpp
-        Utilities.h
-        MataMvidia.cpp)
+add_executable(hw_3
+    main.cpp
+    Person.cpp
+    Person.h
+    SortedList.h
+    Task.cpp
+    Task.h
+    TaskManager.h
+        TaskManager.cpp)
